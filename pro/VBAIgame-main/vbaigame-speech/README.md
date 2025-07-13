@@ -33,9 +33,4 @@ This project enhances the VBAIgame experience by enabling real-time, low-latency
 ## Troubleshooting
 - Ensure your microphone and speakers are connected and selected in settings.
 - For API or audio errors, check the terminal for debug info.
-
-## License
-MIT
-
----
 For more details, see the full reflection report in `REFLECTION_REPORT.md`.
